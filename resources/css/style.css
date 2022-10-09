@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -7,7 +9,6 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 p {
     color: aquamarine;
